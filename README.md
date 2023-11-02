@@ -19,7 +19,7 @@ Ik ben verder aan de slag gegaan met de opdracht ontwerp en ontwikkel een online
 ![Schermafbeelding 2023-11-02 om 10 56 35 AM](https://github.com/latoyaln/all-human-accessible-website/assets/76912011/db67af9c-8a9d-4d1d-a098-d74683bcde76)
 
 
-<!-- Voeg een link toe naar Github Pages 🌐-->
+[(https://latoyaln.github.io/all-human-accessible-website/)](https://latoyaln.github.io/all-human-accessible-website/)
 
 ## Kenmerken
 Ik heb gebruik gemaakt van HTML, CSS en javascript. Ook heb ik lighthouse gebruikt voor een toegankelijkheid test
