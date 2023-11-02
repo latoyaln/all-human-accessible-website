@@ -16,6 +16,9 @@ Ik ben verder aan de slag gegaan met de opdracht ontwerp en ontwikkel een online
 
 ![Schermafbeelding 2023-11-02 om 11 05 54 AM](https://github.com/latoyaln/all-human-accessible-website/assets/76912011/30a51be0-6f23-4eea-b8a7-bb7c9ed69992)
 
+![Schermafbeelding 2023-11-02 om 10 56 35 AM](https://github.com/latoyaln/all-human-accessible-website/assets/76912011/db67af9c-8a9d-4d1d-a098-d74683bcde76)
+
+
 <!-- Voeg een link toe naar Github Pages 🌐-->
 
 ## Kenmerken
